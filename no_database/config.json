@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "no_database(fail)",
+      "nl": "no_database(fail)"
+    }
+  },
+  "internals": {
+    "token": "s2Ets_PEDtjpV7UJ6xuAUMMFYsmy2DDAu7w_nXnF8GJngKITbj_uwU8SUnwA7thF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "labels": [
+
+  ]
+}

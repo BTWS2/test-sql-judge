@@ -1,0 +1,1 @@
+Geef daarna de naam en telefoonnummer van alle klanten. De volgorde moet overeenkomen.

@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "diff_database_directory_no_sqlite(fail)",
+      "nl": "diff_database_directory_no_sqlite(fail)"
+    }
+  },
+  "internals": {
+    "token": "aJ_Rj2d6WrDEcGZ3zhZ6tafwFfhsBsBpkucv-6WiGpZYIdvUFqHTeAzfg8FKPqu7",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "database_dir": "./databases"
+  },
+  "labels": [
+
+  ]
+}

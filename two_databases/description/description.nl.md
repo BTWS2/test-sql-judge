@@ -1,0 +1,1 @@
+Geef alle informatie van alle klanten.

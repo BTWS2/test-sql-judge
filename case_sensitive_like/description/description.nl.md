@@ -1,0 +1,1 @@
+Geef van elke aankoop van een product dat geproduceerd wordt in een stad waarvan de naam begint met `San` (hoofdlettergevoelig), de naam van de klant en de beschrijving van het aangekochte product. Sorteer op de naam van de klant. 

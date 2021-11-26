@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "comments_in_solution",
+      "nl": "comments_in_solution"
+    }
+  },
+  "internals": {
+    "token": "U62CZmCkG6kkabtut9vdS6awMhQi_6P4pv8V5Yk9RtV8T4F2-VFmegZyiembGxJx",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ],
+  "type": "exercise"
+}

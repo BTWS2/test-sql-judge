@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "loose_row_order",
+      "nl": "loose_row_order"
+    }
+  },
+  "internals": {
+    "token": "FF9ZET3MDeFDUXRuyce7_WyE9tyKMDkS9NgJrNritTY6BZE5ZXUMMq8xHYCHE3FJ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "strict_identical_order_by": false
+  },
+  "labels": [
+
+  ]
+}

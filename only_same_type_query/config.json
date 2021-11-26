@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "only_same_type_query(fail)",
+      "nl": "only_same_type_query(fail)"
+    }
+  },
+  "internals": {
+    "token": "Rk3X-_Bjr53H8nkNsnCUXPTG3PIZQSAJ9BM62GyxCURwjEjjVECaY-VWhGRKjkEW",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ],
+  "type": "exercise"
+}

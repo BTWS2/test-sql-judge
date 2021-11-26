@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "no_semicolon_warning",
+      "nl": "no_semicolon_warning"
+    }
+  },
+  "internals": {
+    "token": "WUb-Du7HDtHP-EIH9SYfZ2EKkKzsZigSGUBqu3V8mnfmI8vdqKnMAX8yeiI5ndht",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "semicolon_warning": false
+  },
+  "labels": [
+
+  ]
+}

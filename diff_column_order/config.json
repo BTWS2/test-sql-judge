@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "diff_column_order",
+      "nl": "diff_column_order"
+    }
+  },
+  "internals": {
+    "token": "FR6_Vuu4WhYPi_7uXa7ah6UbXi4bVkkbXk-9BjCXaev3ItfGi4ej29tT5wjDS9Ad",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "labels": [
+
+  ]
+}

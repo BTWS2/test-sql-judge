@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "diff_database_directory",
+      "nl": "diff_database_directory"
+    }
+  },
+  "internals": {
+    "token": "q35Ia48Asg-QQJWYRPAZgH8CKfdyUym5fxJBd7yn-UwWA67gKVAJnaxIbBAC3Yp_",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "database_dir": "./databases"
+  },
+  "labels": [
+
+  ]
+}

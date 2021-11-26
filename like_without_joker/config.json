@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "en": "like_without_joker",
+      "nl": "like_without_joker"
+    }
+  },
+  "internals": {
+    "token": "RtBuH27wR_TXDHCu9HVwh6QSnTxq_mE5GHZ-GUQJHYBNFNXVZ4dqgI9W9cwYHAz7",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "evaluation": {
+    "post_execution_forbidden_symbolregex": [
+      "LIKE[\\s'\"]+[\\%_]+"
+    ]
+  },
+  "labels": [
+
+  ],
+  "type": "exercise"
+}

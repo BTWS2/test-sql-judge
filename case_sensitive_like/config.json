@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "en": "case_sensitive_like(fail,todo)",
+      "nl": "case_sensitive_like(fail,todo)"
+    }
+  },
+  "internals": {
+    "token": "P3quzf8rBWjIxusvXkPtZHfYNaFGtxjg5A-2QtkiENj9At8wt3EvAwpQyHdge5uf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "evaluation": {
+    "pragma_startup_queries": "PRAGMA case_sensitive_like=ON;"
+  },
+  "type": "exercise"
+}

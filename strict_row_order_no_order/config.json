@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "strict_row_order_no_order(fail)",
+      "nl": "strict_row_order_no_order(fail)"
+    }
+  },
+  "internals": {
+    "token": "NepYngSnts28wy-icUxR8EE3hYSjGyQ6quqxKrwQm7VNM9n_QHFv5cx8TQVbRgmS",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "strict_identical_order_by": true
+  },
+  "labels": [
+
+  ]
+}

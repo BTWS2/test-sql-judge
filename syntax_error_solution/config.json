@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "syntax_error_solution(fail)",
+      "nl": "syntax_error_solution(fail)"
+    }
+  },
+  "internals": {
+    "token": "KdMM49rYdrjkH8uQBSxe-GYgzetvE4NWnVd2BIaYhB5MZyHw6SsYynhZQuPX7eZ9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "labels": [
+
+  ]
+}

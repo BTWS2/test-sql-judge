@@ -1,0 +1,22 @@
+{
+  "description": {
+    "names": {
+      "en": "individual_db_files",
+      "nl": "individual_db_files"
+    }
+  },
+  "internals": {
+    "token": "n8IZFbHA5xJt-EUrdeVBNUfEEBYU3Sd9Bb48ZisD9cYunqEBgZSmy7KENJP2uVij",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "database_files": [
+      "./databases/databank-informatica2.sqlite",
+      "./databases/databank-informatica1.sqlite"
+    ]
+  },
+  "labels": [
+
+  ]
+}

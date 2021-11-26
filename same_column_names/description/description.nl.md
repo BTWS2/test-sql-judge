@@ -1,0 +1,1 @@
+Toon voor alle producten de beschrijving van het product en de beschrijving die eraan gekoppeld is in de tabel `PRODUCT_CODE`.

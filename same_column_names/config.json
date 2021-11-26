@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "same_column_names",
+      "nl": "same_column_names"
+    }
+  },
+  "internals": {
+    "token": "Qkv7nwQ47nEbazBEdRjTI-IDKkkGKJ5Kx2w9iBtvBnTAswSeRjpFZIhYhQT6Yynr",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ],
+  "type": "exercise"
+}

@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "no_database_folder(fail)",
+      "nl": "no_database_folder(fail)"
+    }
+  },
+  "internals": {
+    "token": "vfnVtkbZeMhFuFHuSCz5T9HTi5hGTy-yuu-BDDPNszaZXJZxfTcW6p4mwhQMhYrb",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "labels": [
+
+  ],
+    "evaluation": {
+    "database_dir": "./databases"
+  }
+}

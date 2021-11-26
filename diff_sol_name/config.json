@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "diff_sol_name",
+      "nl": "diff_sol_name"
+    }
+  },
+  "internals": {
+    "token": "4pd6JuKexB8kD9-wTcxucDbzvffb8pTGsiNgWQZYQZapPkNmExY69UNFYJbF4UwE",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "evaluation": {
+    "solution_sql": "./oplossing.sql"
+  },
+  "labels": [
+
+  ]
+}

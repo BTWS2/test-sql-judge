@@ -1,0 +1,1 @@
+Geef daarna de naam en telefoonnummer van alle klanten. Het speelt geen rol in welke volgorde je de kolommen zet.

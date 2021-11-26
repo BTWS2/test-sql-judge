@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "two_databases_and_two_queries",
+      "nl": "two_databases_and_two_queries"
+    }
+  },
+  "internals": {
+    "token": "J3y4Sc7jzJyI3zPTqEtfknmujnym5EX_-64kzvExjkG2FbSKB_YMM9U8aBk6aIG9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "type": "exercise",
+  "labels": [
+
+  ]
+}

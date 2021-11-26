@@ -1,0 +1,1 @@
+No semicolon warning
