@@ -10,8 +10,8 @@
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "evaluation": {
-    "post_execution_forbidden_symbolregex": [
-      "LIKE[\\s'\"]+[\\%_]+"
+    "post_execution_fullregex": [
+      "((?!LIKE[\\s'\"]+[\\%_]+).)*"
     ]
   },
   "labels": [
