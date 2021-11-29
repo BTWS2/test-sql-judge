@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "create_table(non-select)",
+      "en": "create_table(non-select)"
+    }
+  },
+  "type": "exercise",
+  "labels": [
+    "database",
+    "introduction"
+  ],
+  "internals": {
+    "token": "qtE3FPUam4eBNJgP8mHEyMUvGE9YJ8hju8J3ue6fhuQKv8xDuG_xiNKszDaWdYkr",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "private"
+}
