@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "loose_row_order_with_ordering",
+      "nl": "loose_row_order_with_ordering"
+    }
+  },
+  "type": "exercise",
+  "evaluation": {
+    "strict_identical_order_by": false,
+    "order_unordered_rows": true
+  },
+  "labels": []
+}

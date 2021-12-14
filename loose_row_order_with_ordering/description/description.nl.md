@@ -1,0 +1,1 @@
+Geef de naam en telefoonnummer van alle klanten. De volgorde van de rijen speelt geen rol.
