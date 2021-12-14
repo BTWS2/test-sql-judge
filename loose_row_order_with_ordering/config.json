@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "loose_row_order_with_ordering",
-      "nl": "loose_row_order_with_ordering"
+      "en": "loose_row_order_with_ordering(ordered,OK)",
+      "nl": "loose_row_order_with_ordering(ordered,OK)"
     }
   },
   "type": "exercise",

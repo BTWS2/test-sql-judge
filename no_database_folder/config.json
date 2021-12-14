@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "no_database_folder(fail)",
-      "nl": "no_database_folder(fail)"
+      "en": "no_database_folder",
+      "nl": "no_database_folder"
     }
   },
   "internals": {
@@ -10,10 +10,8 @@
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "type": "exercise",
-  "labels": [
-
-  ],
-    "evaluation": {
+  "labels": [],
+  "evaluation": {
     "database_dir": "./databases"
   }
 }

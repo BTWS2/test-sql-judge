@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "empty_submission(fail)",
-      "nl": "empty_submission(fail)"
+      "en": "empty_submission(empty,OK)",
+      "nl": "empty_submission(empty,OK)"
     }
   },
   "internals": {
@@ -10,7 +10,5 @@
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "type": "exercise",
-  "labels": [
-
-  ]
+  "labels": []
 }

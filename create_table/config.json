@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "nl": "create_table(non-select)",
-      "en": "create_table(non-select)"
+      "nl": "create_table",
+      "en": "create_table"
     }
   },
   "type": "exercise",

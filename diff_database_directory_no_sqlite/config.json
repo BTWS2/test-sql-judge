@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "diff_database_directory_no_sqlite(fail)",
-      "nl": "diff_database_directory_no_sqlite(fail)"
+      "en": "diff_database_directory_no_sqlite",
+      "nl": "diff_database_directory_no_sqlite"
     }
   },
   "internals": {
@@ -13,7 +13,5 @@
   "evaluation": {
     "database_dir": "./databases"
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

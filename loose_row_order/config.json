@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "loose_row_order",
-      "nl": "loose_row_order"
+      "en": "loose_row_order(ordered,OK)",
+      "nl": "loose_row_order(ordered,OK)"
     }
   },
   "internals": {
@@ -13,7 +13,5 @@
   "evaluation": {
     "strict_identical_order_by": false
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

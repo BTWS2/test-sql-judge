@@ -13,7 +13,5 @@
   "evaluation": {
     "database_dir": "./databases"
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

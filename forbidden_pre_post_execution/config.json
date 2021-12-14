@@ -1,17 +1,15 @@
 {
   "description": {
     "names": {
-      "en": "forbidden_pre_post_execution(fail)",
-      "nl": "forbidden_pre_post_execution(fail)"
+      "en": "forbidden_pre_post_execution(forbidden,OK)",
+      "nl": "forbidden_pre_post_execution(forbidden,OK)"
     }
   },
   "internals": {
     "token": "iKdvSy5gy7rmZqPkmaGF7dwKIXRuC6AGKTWaaQYa_tXwPJktrqSrNG_TxCBYYv57",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "evaluation": {
     "pre_execution_forbidden_symbolregex": [
       "dummy",

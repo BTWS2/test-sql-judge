@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "strict_row_order_no_order2(fail)",
-      "nl": "strict_row_order_no_order2(fail)"
+      "en": "strict_row_order_no_order_by(order_by_name,OK)",
+      "nl": "strict_row_order_no_order_by(order_by_name,OK)"
     }
   },
   "internals": {
@@ -13,7 +13,5 @@
   "evaluation": {
     "strict_identical_order_by": true
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

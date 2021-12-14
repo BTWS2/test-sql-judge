@@ -1,17 +1,15 @@
 {
   "description": {
     "names": {
-      "en": "forbidden_distinct(fail)",
-      "nl": "forbidden_distinct(fail)"
+      "en": "forbidden_distinct(distinct,OK)",
+      "nl": "forbidden_distinct(distinct,OK)"
     }
   },
   "internals": {
     "token": "GrDWm-bgI_skH28AuFhSZ4xsEQjaJFdGm-XD-s2e8W5NfMdCf5wVS3ckIzxaVXsK",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "evaluation": {
     "post_execution_forbidden_symbolregex": [
       "(?i).*DISTINCT.*"

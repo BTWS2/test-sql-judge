@@ -13,7 +13,5 @@
   "evaluation": {
     "solution_sql": "./oplossing.sql"
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

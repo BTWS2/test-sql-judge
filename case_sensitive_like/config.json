@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "case_sensitive_like(fail,todo)",
-      "nl": "case_sensitive_like(fail,todo)"
+      "en": "case_sensitive_like(lowercase,OK)",
+      "nl": "case_sensitive_like(lowercase,OK)"
     }
   },
   "internals": {

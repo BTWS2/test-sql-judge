@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "no_database(fail)",
-      "nl": "no_database(fail)"
+      "en": "no_database",
+      "nl": "no_database"
     }
   },
   "internals": {
@@ -10,7 +10,5 @@
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "type": "exercise",
-  "labels": [
-
-  ]
+  "labels": []
 }

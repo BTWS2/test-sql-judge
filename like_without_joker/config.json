@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "like_without_joker",
-      "nl": "like_without_joker"
+      "en": "like_without_joker(with_joker,OK)",
+      "nl": "like_without_joker(with_joker,OK)"
     }
   },
   "internals": {

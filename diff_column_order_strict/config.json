@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "strict_column_order",
-      "nl": "strict_column_order"
+      "en": "diff_column_order_strict(wrong_column_order,OK)",
+      "nl": "diff_column_order_strict(wrong_column_order,OK)"
     }
   },
   "internals": {
@@ -13,7 +13,5 @@
   "evaluation": {
     "allow_different_column_order": false
   },
-  "labels": [
-
-  ]
+  "labels": []
 }

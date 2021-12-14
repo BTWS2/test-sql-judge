@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "wrong_count(wrong)",
-      "nl": "wrong_count(wrong)"
+      "en": "wrong_count",
+      "nl": "wrong_count"
     }
   },
   "internals": {
