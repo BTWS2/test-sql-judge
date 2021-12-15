@@ -6,6 +6,9 @@ import shutil
 script_path = os.path.dirname(os.path.realpath(__file__))
 
 for filename in os.listdir(script_path):
+    if filename[0] == "_":
+        continue
+
     subdir_path = os.path.join(script_path, filename)
 
     if not os.path.isdir(subdir_path):

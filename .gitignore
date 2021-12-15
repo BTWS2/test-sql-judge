@@ -1,3 +1,6 @@
+# exlude temporary generated .sqlite files
+_databases/*.sqlite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
