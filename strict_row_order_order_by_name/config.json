@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "strict_row_order_order_by_name(no_order_by,OK)",
-      "nl": "strict_row_order_order_by_name(no_order_by,OK)"
+      "en": "strict_row_order_order_by_name(wrong,no_order_by,OK)",
+      "nl": "strict_row_order_order_by_name(wrong,no_order_by,OK)"
     }
   },
   "internals": {
@@ -11,7 +11,7 @@
   },
   "type": "exercise",
   "evaluation": {
-    "strict_identical_order_by": true
+    "order_unordered_rows": true
   },
   "labels": []
 }

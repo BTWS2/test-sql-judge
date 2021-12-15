@@ -11,7 +11,7 @@
   },
   "type": "exercise",
   "evaluation": {
-    "strict_identical_order_by": true
+    "order_unordered_rows": true
   },
   "labels": []
 }

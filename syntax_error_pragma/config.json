@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "syntax_error_pragma",
+      "nl": "syntax_error_pragma"
+    }
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "evaluation": {
+    "pragma_startup_queries": "PRAGMA ';"
+  },
+  "type": "exercise"
+}

@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "pragma_wrong_type",
+      "nl": "pragma_wrong_type"
+    }
+  },
+  "labels": [
+    "example",
+    "database"
+  ],
+  "evaluation": {
+    "pragma_startup_queries": "SELECT 1;"
+  },
+  "type": "exercise"
+}
