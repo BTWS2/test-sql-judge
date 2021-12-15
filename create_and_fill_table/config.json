@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "nl": "create_and_fill_table(different_order,OK,wrong_content)",
+      "en": "create_and_fill_table(different_order,OK,wrong_content)"
+    }
+  },
+  "type": "exercise",
+  "labels": [
+    "database",
+    "introduction"
+  ]
+}

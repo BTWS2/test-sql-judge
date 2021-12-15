@@ -1,0 +1,1 @@
+SELECT * froom DISCOUNT_CODE;

@@ -1,0 +1,1 @@
+SELECT * from DISCOUNT_COODE;

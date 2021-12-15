@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "en": "individual_db_files_non_existant",
+      "nl": "individual_db_files_non_existant"
+    }
+  },
+  "type": "exercise",
+  "evaluation": {
+    "database_files": [
+      "./databases/databank-informatica2.sqlite",
+      "./databases/databank-informatica1.sqlite",
+      "./databases/does_not_exist.sqlite"
+    ]
+  },
+  "labels": []
+}

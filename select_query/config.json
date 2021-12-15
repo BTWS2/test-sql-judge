@@ -1,0 +1,10 @@
+{
+  "description": {
+    "names": {
+      "en": "select_query(wrong_nr_rows,non_existing_table,more_queries_than_solution,wrong_typer_insert_query,syntax_error,wrong_nr_columns,OK)",
+      "nl": "select_query(wrong_nr_rows,non_existing_table,more_queries_than_solution,wrong_typer_insert_query,syntax_error,wrong_nr_columns,OK)"
+    }
+  },
+  "labels": [],
+  "type": "exercise"
+}

@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "nl": "create_table",
-      "en": "create_table"
+      "nl": "create_table(wrong_type,incorrect_name,OK)",
+      "en": "create_table(wrong_type,incorrect_name,OK)"
     }
   },
   "type": "exercise",
