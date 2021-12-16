@@ -1,0 +1,9 @@
+{
+    "type": "exercise",
+    "access": "private",
+    "programming_language": "sql",
+    "labels": [
+        "sqlite",
+        "database"
+    ]
+}
